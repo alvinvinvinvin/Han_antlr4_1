@@ -15,7 +15,7 @@ public class Test {
     	String strValue;
     	
     	//strValue = "hello world, hello jerry";
-    	strValue = "hello world; hello jerry";
+    	strValue = "[MPI Get : v1.8]";
     	
         // create a CharStream that reads from standard input
     	//ANTLRInputStream input = new ANTLRInputStream(System.in);
